@@ -1,3 +1,10 @@
+## To Run HomeMatch chat bot
+- Assume you are done to setup environment
+``` bash
+cd HomeMatch/src
+python main.py
+```
+
 ## Environment
 
 Create Virtual Environment & Install required packages
