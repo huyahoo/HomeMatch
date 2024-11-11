@@ -1,0 +1,5 @@
+.DS_Store
+venv/
+notebooks/
+.env
+__pycache__
